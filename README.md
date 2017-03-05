@@ -1,6 +1,6 @@
 # Research-Collaborations
-# 2016_UMN_YinglingFan_TransitCube
-# https://github.com/y7song/Research-Collaborations/tree/2016_UMN_YinglingFan_TransitCube
+## 2016_UMN_YinglingFan_TransitCube
+### https://github.com/y7song/Research-Collaborations/tree/2016_UMN_YinglingFan_TransitCube
 
 This set of scripts is writtern to process and visualize tranist smartcard data based on the concept Data Cube
 The three major components are 
