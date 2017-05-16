@@ -12,6 +12,8 @@ The scripts have been edited to show the effectiveness and efficient of applying
 
 The scripts could be used to create GUI in the future if needed.
 
+A randomly sampled subset of data is included for testing purpose. 
+
 If there is any question or comment, please feel free to contact the author through email yingsong@umn.edu.
 
 
