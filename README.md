@@ -13,3 +13,7 @@ The scripts have been edited to show the effectiveness and efficient of applying
 The scripts could be used to create GUI in the future if needed.
 
 If there is any question or comment, please feel free to contact the author through email yingsong@umn.edu.
+
+
+#### ACKNOWLEDGEMENT
+This study was sponsored by the International Cooperation and Exchange of the National Natural Science Foundation of China (No.51561135003) and the Key project of National Natural Science Foundation of China (No.51338003).
